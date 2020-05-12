@@ -1,5 +1,5 @@
 {
-    "name": "kalpesh/composer-helloWorld",
+    "name": "kalpesh/composer-initlevel",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
